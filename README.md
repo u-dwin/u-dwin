@@ -29,6 +29,9 @@ Hi 👋 My name is Daniel
 
 <p align="left"> <a href="https://www.github.com/u-dwin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/u-dwin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Xplora Features
+![xplora_gif](https://user-images.githubusercontent.com/122820707/232806586-8c91fa33-2db1-4e0f-ab87-f9259f9582de.gif)
+
 ### Badges
 
 <b>My GitHub Stats</b>
