@@ -4,7 +4,8 @@ Hi 👋 My name is Daniel
 * 🌍  I am based in Berlin
 * 🚀  I am currently working on [Xplora](http://github.com/u-dwin/Xplora)
 * 🧠  I am learning Java, Spring Boot, Spring Security, React, Java Script, Typescript
-* 🔍  I am looking for a job as a backend or frotend developer in Berlin or Remote
+* 🔍  I am looking for a job as a backend or frotend developer in Berlin or Remote
+
 
 ### Skills
 
