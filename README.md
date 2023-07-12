@@ -32,9 +32,3 @@ Hi 👋 My name is Daniel
 
 ### Xplora Features
 ![xplora_gif](https://user-images.githubusercontent.com/122820707/232806586-8c91fa33-2db1-4e0f-ab87-f9259f9582de.gif)
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/u-dwin"><img src="https://github-readme-stats.vercel.app/api?username=u-dwin&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="u-dwin's GitHub stats" /></a>
