@@ -3,7 +3,6 @@ Hi 👋 My name is Daniel
 
 * 🌍  I am based in Berlin
 * 🚀  I am currently working on [Xplora](http://github.com/u-dwin/Xplora)
-* 🔍  I am looking for a job as a Back End or Full Stack developer in Berlin or Remote
 
 
 ### Skills
