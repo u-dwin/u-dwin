@@ -2,7 +2,6 @@ Hi 👋 My name is Daniel
 =======================
 
 * 🌍  I am based in Berlin
-* 🚀  I am currently working on [Xplora](http://github.com/u-dwin/Xplora)
 
 
 ### Skills
